@@ -5,7 +5,7 @@ This folder contains the database backup for the Film Festival application.
 ## Current Version
 - Version: v1
 - Filename: v1_movie_festival_db.sql
-- Date: January 2024
+- Date: December 2024
 
 ## Files Structure
 ```
